@@ -1,0 +1,164 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/CHANGELOG.md",
+    "destination": "assets/go2/downloaded/menagerie/CHANGELOG.md",
+    "sha256": "5d35e51b35ee779ac9cacf10599b440a51509c9fa3aa9c067bd9dc775ed11bd3",
+    "bytes": 460
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/go2.xml",
+    "destination": "assets/go2/downloaded/menagerie/go2.xml",
+    "sha256": "50adb09a4365293e2acdaf2010ae35a82b0f09fea18ae51806fef91e310ed04a",
+    "bytes": 11678
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/go2_mjx.xml",
+    "destination": "assets/go2/downloaded/menagerie/go2_mjx.xml",
+    "sha256": "fd3d459f22c02187334ab8877c664e5d9e33b513d75312a615368e8a215621c6",
+    "bytes": 13979
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/LICENSE",
+    "destination": "assets/go2/downloaded/menagerie/LICENSE",
+    "sha256": "7e2dfda59b98e38d123f539b59ecb637ffd8908d19e09f7765884a309f010d40",
+    "bytes": 1537
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/README.md",
+    "destination": "assets/go2/downloaded/menagerie/README.md",
+    "sha256": "b1384664f8bd60ef4333e340aa06c6f2b1175a5329e3ea9345da3dde20362069",
+    "bytes": 2435
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/scene.xml",
+    "destination": "assets/go2/downloaded/menagerie/scene.xml",
+    "sha256": "b56123ea2bf09070bf4054f0be9aa418e49041ddddce44dbbf7ab35e8b732641",
+    "bytes": 816
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/scene_mjx.xml",
+    "destination": "assets/go2/downloaded/menagerie/scene_mjx.xml",
+    "sha256": "e6754ed3a6e7fbf031edfdffbcc70583a3c46f10d2510f0ac9314789573acf21",
+    "bytes": 820
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/base_0.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/base_0.obj",
+    "sha256": "8cdc53719002a5ee737d867904e534a6d6fa930b616bdcc1b3131e577d4e46c0",
+    "bytes": 1330465
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/base_1.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/base_1.obj",
+    "sha256": "39d2f4724ff64dd5a0640c308fd98902a2946660a8d033ec8dbf368fd5af0dd6",
+    "bytes": 811791
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/base_2.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/base_2.obj",
+    "sha256": "29cae463f95d678e4ede863c36c9b19b0d356b8340412add10670d70bdcc3095",
+    "bytes": 294090
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/base_3.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/base_3.obj",
+    "sha256": "f51ba43bf300e68957a0c1aa83eaf3e4926f4ac7e64a0d6c33ae5d21fcbcf5f6",
+    "bytes": 379093
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/base_4.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/base_4.obj",
+    "sha256": "49ddec0129546e5dd2075d5beacf7f207baa2860aeff7626818e64d2efbf3821",
+    "bytes": 7776234
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/calf_0.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/calf_0.obj",
+    "sha256": "4a818cd563c5b7e2a271504442d05fd777d38cbaa028d4a10ad29c9f87bb355e",
+    "bytes": 877174
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/calf_1.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/calf_1.obj",
+    "sha256": "51950c3a153ae3208592df86ea11c9d6756f8f645ebca5caf6910c61aeb03817",
+    "bytes": 326865
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/calf_mirror_0.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/calf_mirror_0.obj",
+    "sha256": "6dc0406207a1c08a5953fd5962aca1a270fd06593d30d100205e05c1b32d4af2",
+    "bytes": 876538
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/calf_mirror_1.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/calf_mirror_1.obj",
+    "sha256": "f84f5af90b914633165beb3a5493ee499169144c5797dcf04c6eb5842f74b31a",
+    "bytes": 327261
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/foot.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/foot.obj",
+    "sha256": "df9e78a7c0110d02557439010f2a5f11f0ec4fd907b32704145dbd6aa7affc0b",
+    "bytes": 1144729
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/hip_0.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/hip_0.obj",
+    "sha256": "cc29932ab4d251ce3f72389ec4c1f757e44eee138b87e772b648c2bc76b506cd",
+    "bytes": 2863864
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/hip_1.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/hip_1.obj",
+    "sha256": "3fd5bd9b2ef6abe622c0739d3c67eaa1679b19b47132951972c4892a779ea7cf",
+    "bytes": 2767918
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/thigh_0.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/thigh_0.obj",
+    "sha256": "bb3edfe6a7b04f4f4dff1ce7b05d426ddce941e276cc6372fb542055893c71ec",
+    "bytes": 2841868
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/thigh_1.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/thigh_1.obj",
+    "sha256": "3a631822f9f7d2114b1b79dcdff5abf95103630abb7d91d1f3b8b18117132ed2",
+    "bytes": 1491320
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/thigh_mirror_0.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/thigh_mirror_0.obj",
+    "sha256": "07abaedce761f1dd48647384ac14ba1959276bc78d5a2a62051e8f1c6093933b",
+    "bytes": 2817674
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_go2/assets/thigh_mirror_1.obj",
+    "destination": "assets/go2/downloaded/menagerie/assets/thigh_mirror_1.obj",
+    "sha256": "db984a3e983eabbc9b38183427cca9ab0bb3bdb049f9eab030e06edda36579d6",
+    "bytes": 1482261
+  },
+  {
+    "url": "https://raw.githubusercontent.com/11chens/SEA-Nav-Code/560de73c094a750a6a358bc1920ebc9ef1d9f3c5/training/legged_gym/legged_gym/ctrl_model/body_latest.jit",
+    "destination": "assets/go2/downloaded/sea/body_latest.jit",
+    "sha256": "9902780044ddb6d84ea31de6efbf369e44bc9972e3d7e1984c06c269abe5cc28",
+    "bytes": 810585
+  },
+  {
+    "url": "https://raw.githubusercontent.com/11chens/SEA-Nav-Code/560de73c094a750a6a358bc1920ebc9ef1d9f3c5/training/legged_gym/legged_gym/ctrl_model/encoder_latent.jit",
+    "destination": "assets/go2/downloaded/sea/encoder_latent.jit",
+    "sha256": "98f4dcebf0e1c00c029af7d5fd4c2a42e5f079e435325139a0ddca1893eb777f",
+    "bytes": 613550
+  },
+  {
+    "url": "https://raw.githubusercontent.com/11chens/SEA-Nav-Code/560de73c094a750a6a358bc1920ebc9ef1d9f3c5/training/legged_gym/legged_gym/ctrl_model/encoder_vel.jit",
+    "destination": "assets/go2/downloaded/sea/encoder_vel.jit",
+    "sha256": "115fb5227b1129eacff9cb73a8074b2a2f76c7a851a1497bda9617ffe777d6ed",
+    "bytes": 605677
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Zhefan-Xu/NavRL/3725bcc2e7c1be4ecf1455d922299ae85042603a/quick-demos/ckpts/navrl_checkpoint.pt",
+    "destination": "assets/pretrained/navrl_checkpoint.pt",
+    "sha256": "51fa3dbdc6ba89626b5dad3a4638deb53d40aa6f0caa9b289657da4a8e0b60c3",
+    "bytes": 723925
+  }
+]
