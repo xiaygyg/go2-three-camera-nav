@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "go2-three-camera-nav"
+version = "0.1.0"
+description = "Three-depth-camera local navigation for Go2 in MuJoCo, with sprint-to-forest demos"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26,<3", "torch>=2.5,<3", "mujoco>=3.3,<4", "Pillow>=10", "imageio>=2.34", "imageio-ffmpeg>=0.5", "matplotlib>=3.8", "requests>=2.31"]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+include = ["go2_nav*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
