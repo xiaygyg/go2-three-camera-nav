@@ -1,0 +1,51 @@
+{
+  "schema": "three_d435i_depth_v1",
+  "calibrated": false,
+  "assumptions": "Go2 nominal front/left/right D435i mounts; uncalibrated simulation rig; conservative 0.55m footprint",
+  "width": 128,
+  "height": 80,
+  "hfov_deg": 87,
+  "vfov_deg": 58,
+  "max_depth_m": 8,
+  "scan_range_m": 4,
+  "robot_radius_m": 0.55,
+  "stride": 3,
+  "pixel_dropout": 0.01,
+  "camera_dropout": 0.01,
+  "noise_std_m": 0.005,
+  "cameras": [
+    {
+      "name": "front",
+      "position_body": [
+        0.27,
+        0,
+        0.08
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0
+    },
+    {
+      "name": "left",
+      "position_body": [
+        0.23,
+        0.1,
+        0.08
+      ],
+      "yaw_deg": 90,
+      "pitch_deg": 0
+    },
+    {
+      "name": "right",
+      "position_body": [
+        0.23,
+        -0.1,
+        0.08
+      ],
+      "yaw_deg": -90,
+      "pitch_deg": 0
+    }
+  ],
+  "near_clip_m": 0.03,
+  "min_depth_m": 0.1,
+  "min_motion_visibility": 1.0
+}
