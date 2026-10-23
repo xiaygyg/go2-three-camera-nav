@@ -1,0 +1,11 @@
+{
+  "tests_passed": 27,
+  "training_smoke_environment_steps": 128,
+  "demo_full_decode_passed": true,
+  "demo_codec": "h264",
+  "demo_width": 1280,
+  "demo_height": 720,
+  "demo_fps": 25,
+  "demo_frames": 4551,
+  "exported_checkpoint_tensor_values_preserved": true
+}

@@ -1,0 +1,12 @@
+{
+  "assets/checkpoints/go2_three_camera.pt": "5ca0b430b5cc8445973e9e58e143815f2aa2a34f2ec8c155ec8d4c9109762c85",
+  "assets/checkpoints/go2_three_camera.json": "e3bf576f00572ccaecb5d6ddac593652ffc3867d109fc4959f8486f0845075a7",
+  "media/demo_metrics.json": "49fe3f9222b8992bf73c3aa27c0ec52a8491ff14eace6208fff1b0f03ae77680",
+  "media/demo_poster.jpg": "4c58a7adaf3e8efa9b49a8317f9b94f289a213435bb162ef7a11b5788771334b",
+  "media/demo.gif": "1853fd428882ef7cd70a4fab058e856c6015a58c2b616bc9ac02cac55b730b9b",
+  "media/speed_tracking.png": "733dc0e23943163e2fc0b6beee1972bd882ed6428da55a5be656e7e29b5d728e",
+  "results/release_demo_full.mp4": "d7099db6a70e962568fc43f446d0839bc71f621d2c91fbe642212730f7d0a972",
+  "results/release_demo_full.csv": "0b299dfa82db8153fdbf009acc68da45a5cde81412964301f6f002053967a3ce",
+  "results/release_demo_full.json": "6d55c837b1e86416d6d946343613644e1f9d16525404600c3481ebff5091d4c1",
+  "results/release_demo_full_route.png": "9234a32d770a9c8238309a5718886c75ceb75a2b803d837d36d66030a7d77da2"
+}

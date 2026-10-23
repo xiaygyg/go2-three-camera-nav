@@ -1,0 +1,57 @@
+{
+  "protocol": "one predeclared seeded continuous sprint-to-forest demo; no retries",
+  "summary": {
+    "status": "completed",
+    "goals_reached": 5,
+    "goals_total": 5,
+    "simulation_seconds": 181.99999999990698,
+    "wall_seconds": 155.1968165799044,
+    "trees": 264,
+    "rocks": 30,
+    "bounds": [
+      -6.0,
+      60.0,
+      -23.0,
+      23.0
+    ],
+    "collision": false,
+    "fall": false,
+    "robot_resets_during_patrol": 0,
+    "handoff_time": 31.899999999997938,
+    "path_length": 164.9021111717422,
+    "straight": {
+      "seconds": 31.900000000000002,
+      "mean_speed": 1.2609995609779054,
+      "peak_speed": 1.4377766688325675,
+      "p95_speed": 1.366700222500215,
+      "mean_forward_speed_after_startup": 1.301472706880916,
+      "mean_abs_lateral_speed": 0.038149785259680276,
+      "mean_abs_lateral_command": 2.208361027557524e-18,
+      "network_mean_vx": 1.5774773176187258,
+      "requested_mean_vx": 1.7000000476837158,
+      "safety_intervention_fraction": 0.0,
+      "stopped_seconds": 0.9,
+      "safety_infeasible_steps": 0
+    },
+    "forest": {
+      "seconds": 150.1,
+      "mean_speed": 0.8317640486362644,
+      "peak_speed": 1.4278546032724087,
+      "p95_speed": 1.2633352815454593,
+      "mean_forward_speed_after_startup": 0.8229578845298728,
+      "mean_abs_lateral_speed": 0.07510874331316669,
+      "mean_abs_lateral_command": 0.055843664263004765,
+      "network_mean_vx": 1.1968840302466393,
+      "requested_mean_vx": 1.1968840302466393,
+      "safety_intervention_fraction": 0.42371752165223187,
+      "stopped_seconds": 36.6,
+      "safety_infeasible_steps": 0
+    }
+  },
+  "straight_steady_tracking_rmse_vx_mps": 0.40025125594707434,
+  "straight_steady_tracking_bias_vx_mps": -0.3990132235736931,
+  "navigation_checkpoint": "assets/checkpoints/go2_three_camera.pt",
+  "recovery": "legacy enabled",
+  "straight_requested_speed_mps": 1.7,
+  "note": "Simulator body speed; desired speed is not achieved speed. One route is not a generalization benchmark."
+}
